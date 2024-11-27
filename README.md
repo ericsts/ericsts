@@ -1,4 +1,5 @@
-## Ola! Eu sou a Eric Luiz dos Santos 👋
+<p>## Ola! Eu sou / Hello, I am 👋</p>
+<p># Eric Luiz dos Santos</p>
  <div>
   <a href="https://github.com/ericsts">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericsts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
